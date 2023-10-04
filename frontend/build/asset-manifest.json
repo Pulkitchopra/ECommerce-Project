@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be5ed110.css",
+    "main.js": "/static/js/main.78b63b31.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/books.jpg": "/static/media/books.07903a062369b2f55038.jpg",
+    "static/media/electronics.jpg": "/static/media/electronics.f95d94944900e0868f92.jpg",
+    "static/media/fashion.jpg": "/static/media/fashion.b9d020d5311cc29b061c.jpg",
+    "static/media/category-electronics.jpg": "/static/media/category-electronics.30a0e69593540202826f.jpg",
+    "index.html": "/index.html",
+    "main.be5ed110.css.map": "/static/css/main.be5ed110.css.map",
+    "main.78b63b31.js.map": "/static/js/main.78b63b31.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5ed110.css",
+    "static/js/main.78b63b31.js"
+  ]
+}
